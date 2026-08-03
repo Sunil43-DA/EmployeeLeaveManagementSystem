@@ -120,7 +120,7 @@ Authentication is implemented using **JWT Access Tokens** and **Refresh Tokens**
 The Employee Leave Management System follows a layered architecture to ensure separation of concerns, maintainability, and scalability. Client requests pass through the API layer, where authentication and authorization are enforced before business logic and data access are executed.
 
 <p align="center">
-    <img src="Screenshots/Architecture.png" width="900">
+    <img src="Screenshots/Architecture_asp.net.png" width="900">
 </p>
 
 ### Architecture Layers
