@@ -1,0 +1,291 @@
+2026-07-23 15:40:51.098 +01:00 [INF] Employee Leave Management API is starting...
+2026-07-23 15:40:51.269 +01:00 [INF] User profile is available. Using 'C:\Users\hp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-23 15:40:51.409 +01:00 [INF] Now listening on: http://localhost:5080
+2026-07-23 15:40:51.415 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-23 15:40:51.417 +01:00 [INF] Hosting environment: Development
+2026-07-23 15:40:51.419 +01:00 [INF] Content root path: C:\Users\hp\EmployeeLeaveManagementSystem\EmployeeLeaveManagement.API
+2026-07-23 16:00:48.423 +01:00 [INF] Application is shutting down...
+2026-07-23 16:01:50.456 +01:00 [INF] Employee Leave Management API is starting...
+2026-07-23 16:01:50.543 +01:00 [INF] User profile is available. Using 'C:\Users\hp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-23 16:01:50.616 +01:00 [INF] Now listening on: http://localhost:5080
+2026-07-23 16:01:50.620 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-23 16:01:50.621 +01:00 [INF] Hosting environment: Development
+2026-07-23 16:01:50.622 +01:00 [INF] Content root path: C:\Users\hp\EmployeeLeaveManagementSystem\EmployeeLeaveManagement.API
+2026-07-23 16:42:06.180 +01:00 [INF] Application is shutting down...
+2026-07-23 16:44:33.982 +01:00 [INF] Employee Leave Management API is starting...
+2026-07-23 16:44:34.096 +01:00 [INF] User profile is available. Using 'C:\Users\hp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-23 16:44:34.169 +01:00 [INF] Now listening on: http://localhost:5080
+2026-07-23 16:44:34.171 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-23 16:44:34.172 +01:00 [INF] Hosting environment: Development
+2026-07-23 16:44:34.173 +01:00 [INF] Content root path: C:\Users\hp\EmployeeLeaveManagementSystem\EmployeeLeaveManagement.API
+2026-07-23 16:48:49.270 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-07-23 16:48:49.540 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 272.9433ms
+2026-07-23 16:48:49.823 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-07-23 16:48:50.053 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 230.6144ms
+2026-07-23 17:02:41.482 +01:00 [INF] Application is shutting down...
+2026-07-23 17:27:37.541 +01:00 [INF] Employee Leave Management API is starting...
+2026-07-23 17:27:37.622 +01:00 [INF] User profile is available. Using 'C:\Users\hp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-23 17:27:37.734 +01:00 [INF] Now listening on: http://localhost:5080
+2026-07-23 17:27:37.736 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-23 17:27:37.737 +01:00 [INF] Hosting environment: Development
+2026-07-23 17:27:37.738 +01:00 [INF] Content root path: C:\Users\hp\EmployeeLeaveManagementSystem\EmployeeLeaveManagement.API
+2026-07-23 17:27:41.093 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-07-23 17:27:41.373 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 281.9382ms
+2026-07-23 17:27:42.769 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-07-23 17:27:42.951 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 182.6812ms
+2026-07-23 17:27:43.010 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-07-23 17:27:43.025 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 15.0169ms
+2026-07-23 17:28:34.761 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/login - application/json 51
+2026-07-23 17:28:34.790 +01:00 [WRN] Failed to determine the https port for redirect.
+2026-07-23 17:28:34.871 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-07-23 17:28:34.928 +01:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(EmployeeLeaveManagement.API.DTOs.LoginDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-07-23 17:28:35.365 +01:00 [INF] Login attempt for user: admin
+2026-07-23 17:28:37.889 +01:00 [INF] Executed DbCommand (158ms) [Parameters=[@__loginDto_Username_0='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[CreatedDate], [u].[Email], [u].[FullName], [u].[IsActive], [u].[PasswordHash], [u].[Role], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__loginDto_Username_0
+2026-07-23 17:28:38.394 +01:00 [INF] Executed DbCommand (57ms) [Parameters=[@p0='?' (DbType = DateTime), @p1='?' (DbType = DateTime), @p2='?' (DbType = Boolean), @p3='?' (Size = 500), @p4='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [RefreshTokens] ([CreatedDate], [ExpiryDate], [IsRevoked], [Token], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-07-23 17:28:38.434 +01:00 [INF] User admin logged in successfully.
+2026-07-23 17:28:38.450 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.LoginResponseDto'.
+2026-07-23 17:28:38.486 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API) in 3547.5652ms
+2026-07-23 17:28:38.489 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-07-23 17:28:38.514 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/login - 200 null application/json; charset=utf-8 3753.5119ms
+2026-07-23 17:29:20.540 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/refresh-token - application/json 112
+2026-07-23 17:29:20.550 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API)'
+2026-07-23 17:29:20.566 +01:00 [INF] Route matched with {action = "RefreshToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RefreshToken(EmployeeLeaveManagement.API.DTOs.RefreshTokenRequestDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-07-23 17:29:20.874 +01:00 [INF] Executed DbCommand (153ms) [Parameters=[@__request_RefreshToken_0='?' (Size = 500)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[CreatedDate], [r].[ExpiryDate], [r].[IsRevoked], [r].[Token], [r].[UserId], [u].[UserId], [u].[CreatedDate], [u].[Email], [u].[FullName], [u].[IsActive], [u].[PasswordHash], [u].[Role], [u].[Username]
+FROM [RefreshTokens] AS [r]
+INNER JOIN [Users] AS [u] ON [r].[UserId] = [u].[UserId]
+WHERE [r].[Token] = @__request_RefreshToken_0
+2026-07-23 17:29:20.889 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.LoginResponseDto'.
+2026-07-23 17:29:20.891 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API) in 320.5026ms
+2026-07-23 17:29:20.892 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API)'
+2026-07-23 17:29:20.894 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/refresh-token - 200 null application/json; charset=utf-8 354.1267ms
+2026-07-23 17:40:05.735 +01:00 [INF] Application is shutting down...
+2026-07-23 17:40:35.406 +01:00 [INF] Employee Leave Management API is starting...
+2026-07-23 17:40:35.484 +01:00 [INF] User profile is available. Using 'C:\Users\hp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-23 17:40:35.560 +01:00 [INF] Now listening on: http://localhost:5080
+2026-07-23 17:40:35.563 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-23 17:40:35.565 +01:00 [INF] Hosting environment: Development
+2026-07-23 17:40:35.566 +01:00 [INF] Content root path: C:\Users\hp\EmployeeLeaveManagementSystem\EmployeeLeaveManagement.API
+2026-07-23 17:41:02.822 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-07-23 17:41:03.053 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 234.5733ms
+2026-07-23 17:41:03.388 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-07-23 17:41:03.587 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 199.4234ms
+2026-07-23 17:41:36.571 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/login - application/json 57
+2026-07-23 17:41:36.603 +01:00 [WRN] Failed to determine the https port for redirect.
+2026-07-23 17:41:36.709 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-07-23 17:41:36.805 +01:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(EmployeeLeaveManagement.API.DTOs.LoginDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-07-23 17:41:37.250 +01:00 [INF] Login attempt for user: employee
+2026-07-23 17:41:39.765 +01:00 [INF] Executed DbCommand (111ms) [Parameters=[@__loginDto_Username_0='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[CreatedDate], [u].[Email], [u].[FullName], [u].[IsActive], [u].[PasswordHash], [u].[Role], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__loginDto_Username_0
+2026-07-23 17:41:40.207 +01:00 [INF] Executed DbCommand (26ms) [Parameters=[@p0='?' (DbType = DateTime), @p1='?' (DbType = DateTime), @p2='?' (DbType = Boolean), @p3='?' (Size = 500), @p4='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [RefreshTokens] ([CreatedDate], [ExpiryDate], [IsRevoked], [Token], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-07-23 17:41:40.250 +01:00 [INF] User employee logged in successfully.
+2026-07-23 17:41:40.265 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.LoginResponseDto'.
+2026-07-23 17:41:40.299 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API) in 3484.2827ms
+2026-07-23 17:41:40.301 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-07-23 17:41:40.314 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/login - 200 null application/json; charset=utf-8 3742.5729ms
+2026-07-23 17:42:05.571 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/refresh-token - application/json 112
+2026-07-23 17:42:05.582 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API)'
+2026-07-23 17:42:05.594 +01:00 [INF] Route matched with {action = "RefreshToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RefreshToken(EmployeeLeaveManagement.API.DTOs.RefreshTokenRequestDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-07-23 17:42:05.616 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2026-07-23 17:42:05.672 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API) in 74.7223ms
+2026-07-23 17:42:05.676 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API)'
+2026-07-23 17:42:05.681 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/refresh-token - 400 null application/problem+json; charset=utf-8 109.4953ms
+2026-07-23 17:42:34.299 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/login - application/json 51
+2026-07-23 17:42:34.311 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-07-23 17:42:34.315 +01:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(EmployeeLeaveManagement.API.DTOs.LoginDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-07-23 17:42:34.330 +01:00 [INF] Login attempt for user: admin
+2026-07-23 17:42:34.387 +01:00 [INF] Executed DbCommand (8ms) [Parameters=[@__loginDto_Username_0='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[CreatedDate], [u].[Email], [u].[FullName], [u].[IsActive], [u].[PasswordHash], [u].[Role], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__loginDto_Username_0
+2026-07-23 17:42:34.403 +01:00 [INF] Executed DbCommand (7ms) [Parameters=[@p0='?' (DbType = DateTime), @p1='?' (DbType = DateTime), @p2='?' (DbType = Boolean), @p3='?' (Size = 500), @p4='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [RefreshTokens] ([CreatedDate], [ExpiryDate], [IsRevoked], [Token], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-07-23 17:42:34.411 +01:00 [INF] User admin logged in successfully.
+2026-07-23 17:42:34.415 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.LoginResponseDto'.
+2026-07-23 17:42:34.420 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API) in 99.1364ms
+2026-07-23 17:42:34.423 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-07-23 17:42:34.427 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/login - 200 null application/json; charset=utf-8 128.6735ms
+2026-07-23 17:43:08.208 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/refresh-token - application/json 96
+2026-07-23 17:43:08.219 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API)'
+2026-07-23 17:43:08.224 +01:00 [INF] Route matched with {action = "RefreshToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RefreshToken(EmployeeLeaveManagement.API.DTOs.RefreshTokenRequestDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-07-23 17:43:08.239 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2026-07-23 17:43:08.242 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API) in 11.6722ms
+2026-07-23 17:43:08.250 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API)'
+2026-07-23 17:43:08.252 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/refresh-token - 400 null application/problem+json; charset=utf-8 44.1519ms
+2026-07-23 17:43:32.204 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/refresh-token - application/json 96
+2026-07-23 17:43:32.214 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API)'
+2026-07-23 17:43:32.220 +01:00 [INF] Route matched with {action = "RefreshToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RefreshToken(EmployeeLeaveManagement.API.DTOs.RefreshTokenRequestDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-07-23 17:43:32.241 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2026-07-23 17:43:32.246 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API) in 8.6137ms
+2026-07-23 17:43:32.249 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API)'
+2026-07-23 17:43:32.253 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/refresh-token - 400 null application/problem+json; charset=utf-8 48.3016ms
+2026-07-23 17:44:02.799 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-07-23 17:44:02.811 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 12.1834ms
+2026-07-23 17:44:02.904 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-07-23 17:44:02.940 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 36.5282ms
+2026-07-23 17:45:03.430 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/register - application/json 149
+2026-07-23 17:45:03.436 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Register (EmployeeLeaveManagement.API)'
+2026-07-23 17:45:03.459 +01:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(EmployeeLeaveManagement.API.DTOs.RegisterDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-07-23 17:45:03.511 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2026-07-23 17:45:03.513 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.Register (EmployeeLeaveManagement.API) in 51.6031ms
+2026-07-23 17:45:03.515 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Register (EmployeeLeaveManagement.API)'
+2026-07-23 17:45:03.517 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/register - 400 null application/problem+json; charset=utf-8 87.6649ms
+2026-07-23 17:45:22.202 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/register - application/json 137
+2026-07-23 17:45:22.215 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Register (EmployeeLeaveManagement.API)'
+2026-07-23 17:45:22.223 +01:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(EmployeeLeaveManagement.API.DTOs.RegisterDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-07-23 17:45:22.238 +01:00 [INF] Registration attempt for user: Sunil
+2026-07-23 17:45:22.380 +01:00 [INF] Executed DbCommand (14ms) [Parameters=[@__registerDto_Username_0='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[CreatedDate], [u].[Email], [u].[FullName], [u].[IsActive], [u].[PasswordHash], [u].[Role], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__registerDto_Username_0
+2026-07-23 17:45:22.388 +01:00 [WRN] Registration failed. Username Sunil already exists.
+2026-07-23 17:45:22.392 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2026-07-23 17:45:22.396 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.Register (EmployeeLeaveManagement.API) in 167.5541ms
+2026-07-23 17:45:22.399 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Register (EmployeeLeaveManagement.API)'
+2026-07-23 17:45:22.401 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/register - 400 null text/plain; charset=utf-8 198.9498ms
+2026-07-23 17:45:49.495 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/login - application/json 51
+2026-07-23 17:45:49.500 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-07-23 17:45:49.507 +01:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(EmployeeLeaveManagement.API.DTOs.LoginDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-07-23 17:45:49.517 +01:00 [INF] Login attempt for user: Sunil
+2026-07-23 17:45:49.547 +01:00 [INF] Executed DbCommand (17ms) [Parameters=[@__loginDto_Username_0='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[CreatedDate], [u].[Email], [u].[FullName], [u].[IsActive], [u].[PasswordHash], [u].[Role], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__loginDto_Username_0
+2026-07-23 17:45:50.100 +01:00 [INF] Executed DbCommand (10ms) [Parameters=[@p0='?' (DbType = DateTime), @p1='?' (DbType = DateTime), @p2='?' (DbType = Boolean), @p3='?' (Size = 500), @p4='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [RefreshTokens] ([CreatedDate], [ExpiryDate], [IsRevoked], [Token], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-07-23 17:45:50.106 +01:00 [INF] User Sunil logged in successfully.
+2026-07-23 17:45:50.109 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.LoginResponseDto'.
+2026-07-23 17:45:50.115 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API) in 599.3258ms
+2026-07-23 17:45:50.118 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-07-23 17:45:50.121 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/login - 200 null application/json; charset=utf-8 625.6553ms
+2026-07-23 17:46:23.934 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/refresh-token - application/json 112
+2026-07-23 17:46:23.947 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API)'
+2026-07-23 17:46:23.951 +01:00 [INF] Route matched with {action = "RefreshToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RefreshToken(EmployeeLeaveManagement.API.DTOs.RefreshTokenRequestDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-07-23 17:46:24.113 +01:00 [INF] Executed DbCommand (19ms) [Parameters=[@__request_RefreshToken_0='?' (Size = 500)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[CreatedDate], [r].[ExpiryDate], [r].[IsRevoked], [r].[Token], [r].[UserId], [u].[UserId], [u].[CreatedDate], [u].[Email], [u].[FullName], [u].[IsActive], [u].[PasswordHash], [u].[Role], [u].[Username]
+FROM [RefreshTokens] AS [r]
+INNER JOIN [Users] AS [u] ON [r].[UserId] = [u].[UserId]
+WHERE [r].[Token] = @__request_RefreshToken_0
+2026-07-23 17:46:24.190 +01:00 [INF] Executed DbCommand (32ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (DbType = Boolean), @p2='?' (DbType = DateTime), @p3='?' (DbType = DateTime), @p4='?' (DbType = Boolean), @p5='?' (Size = 500), @p6='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [RefreshTokens] SET [IsRevoked] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;
+INSERT INTO [RefreshTokens] ([CreatedDate], [ExpiryDate], [IsRevoked], [Token], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p2, @p3, @p4, @p5, @p6);
+2026-07-23 17:46:24.216 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.LoginResponseDto'.
+2026-07-23 17:46:24.219 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API) in 264.3137ms
+2026-07-23 17:46:24.222 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API)'
+2026-07-23 17:46:24.225 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/refresh-token - 200 null application/json; charset=utf-8 290.9943ms
+2026-07-23 17:50:28.663 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-07-23 17:50:28.687 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 24.4283ms
+2026-07-23 17:50:29.021 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-07-23 17:50:29.073 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 52.0992ms
+2026-07-23 17:50:32.912 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-07-23 17:50:32.959 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 47.274ms
+2026-07-23 17:50:33.062 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-07-23 17:50:33.097 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 34.6518ms
+2026-07-23 17:50:41.229 +01:00 [INF] Application is shutting down...
+2026-07-23 17:51:24.706 +01:00 [INF] Employee Leave Management API is starting...
+2026-07-23 17:51:24.862 +01:00 [INF] User profile is available. Using 'C:\Users\hp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-23 17:51:24.940 +01:00 [INF] Now listening on: http://localhost:5080
+2026-07-23 17:51:24.944 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-23 17:51:24.945 +01:00 [INF] Hosting environment: Development
+2026-07-23 17:51:24.946 +01:00 [INF] Content root path: C:\Users\hp\EmployeeLeaveManagementSystem\EmployeeLeaveManagement.API
+2026-07-23 17:51:37.800 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-07-23 17:51:38.055 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 258.7551ms
+2026-07-23 17:51:38.195 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-07-23 17:51:38.415 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 221.0739ms
+2026-07-23 17:52:07.573 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/login - application/json 51
+2026-07-23 17:52:07.604 +01:00 [WRN] Failed to determine the https port for redirect.
+2026-07-23 17:52:07.748 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-07-23 17:52:07.814 +01:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(EmployeeLeaveManagement.API.DTOs.LoginDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-07-23 17:52:08.298 +01:00 [INF] Login attempt for user: Sunil
+2026-07-23 17:52:11.017 +01:00 [INF] Executed DbCommand (217ms) [Parameters=[@__loginDto_Username_0='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[CreatedDate], [u].[Email], [u].[FullName], [u].[IsActive], [u].[PasswordHash], [u].[Role], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__loginDto_Username_0
+2026-07-23 17:52:12.105 +01:00 [INF] Executed DbCommand (52ms) [Parameters=[@p0='?' (DbType = DateTime), @p1='?' (DbType = DateTime), @p2='?' (DbType = Boolean), @p3='?' (Size = 500), @p4='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [RefreshTokens] ([CreatedDate], [ExpiryDate], [IsRevoked], [Token], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-07-23 17:52:12.151 +01:00 [INF] User Sunil logged in successfully.
+2026-07-23 17:52:12.165 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.LoginResponseDto'.
+2026-07-23 17:52:12.215 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API) in 4388.5462ms
+2026-07-23 17:52:12.218 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-07-23 17:52:12.244 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/login - 200 null application/json; charset=utf-8 4670.2497ms
+2026-07-23 17:52:31.667 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/logout - application/json 112
+2026-07-23 17:52:31.691 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Logout (EmployeeLeaveManagement.API)'
+2026-07-23 17:52:31.704 +01:00 [INF] Route matched with {action = "Logout", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Logout(EmployeeLeaveManagement.API.DTOs.LogoutRequestDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-07-23 17:52:31.813 +01:00 [INF] Executed DbCommand (22ms) [Parameters=[@__request_RefreshToken_0='?' (Size = 500)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[CreatedDate], [r].[ExpiryDate], [r].[IsRevoked], [r].[Token], [r].[UserId]
+FROM [RefreshTokens] AS [r]
+WHERE [r].[Token] = @__request_RefreshToken_0
+2026-07-23 17:52:31.862 +01:00 [INF] Executed DbCommand (33ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (DbType = Boolean)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [RefreshTokens] SET [IsRevoked] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;
+2026-07-23 17:52:31.873 +01:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-07-23 17:52:31.893 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.Logout (EmployeeLeaveManagement.API) in 163.4782ms
+2026-07-23 17:52:31.897 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Logout (EmployeeLeaveManagement.API)'
+2026-07-23 17:52:31.898 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/logout - 200 null application/json; charset=utf-8 230.9595ms
+2026-07-23 17:52:43.438 +01:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/refresh-token - application/json 112
+2026-07-23 17:52:43.455 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API)'
+2026-07-23 17:52:43.473 +01:00 [INF] Route matched with {action = "RefreshToken", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] RefreshToken(EmployeeLeaveManagement.API.DTOs.RefreshTokenRequestDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-07-23 17:52:43.733 +01:00 [INF] Executed DbCommand (14ms) [Parameters=[@__request_RefreshToken_0='?' (Size = 500)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [r].[Id], [r].[CreatedDate], [r].[ExpiryDate], [r].[IsRevoked], [r].[Token], [r].[UserId], [u].[UserId], [u].[CreatedDate], [u].[Email], [u].[FullName], [u].[IsActive], [u].[PasswordHash], [u].[Role], [u].[Username]
+FROM [RefreshTokens] AS [r]
+INNER JOIN [Users] AS [u] ON [r].[UserId] = [u].[UserId]
+WHERE [r].[Token] = @__request_RefreshToken_0
+2026-07-23 17:52:43.750 +01:00 [INF] Executing UnauthorizedObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-07-23 17:52:43.755 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API) in 274.1244ms
+2026-07-23 17:52:43.762 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.RefreshToken (EmployeeLeaveManagement.API)'
+2026-07-23 17:52:43.766 +01:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/refresh-token - 401 null application/json; charset=utf-8 328.5575ms
+2026-07-23 18:00:53.792 +01:00 [INF] Application is shutting down...
+2026-07-23 18:01:09.287 +01:00 [INF] Employee Leave Management API is starting...
+2026-07-23 18:01:09.398 +01:00 [INF] User profile is available. Using 'C:\Users\hp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-23 18:01:09.496 +01:00 [INF] Now listening on: http://localhost:5080
+2026-07-23 18:01:09.499 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-23 18:01:09.500 +01:00 [INF] Hosting environment: Development
+2026-07-23 18:01:09.501 +01:00 [INF] Content root path: C:\Users\hp\EmployeeLeaveManagementSystem\EmployeeLeaveManagement.API
+2026-07-23 18:04:19.900 +01:00 [INF] Application is shutting down...
+2026-07-23 18:04:55.454 +01:00 [INF] Employee Leave Management API is starting...
+2026-07-23 18:04:55.528 +01:00 [INF] User profile is available. Using 'C:\Users\hp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-07-23 18:04:55.587 +01:00 [INF] Now listening on: http://localhost:5080
+2026-07-23 18:04:55.591 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-07-23 18:04:55.592 +01:00 [INF] Hosting environment: Development
+2026-07-23 18:04:55.592 +01:00 [INF] Content root path: C:\Users\hp\EmployeeLeaveManagementSystem\EmployeeLeaveManagement.API
+2026-07-23 18:05:00.719 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-07-23 18:05:00.988 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 273.7375ms
+2026-07-23 18:05:01.218 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-07-23 18:05:01.393 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 175.3991ms
+2026-07-23 20:08:42.871 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-07-23 20:08:43.001 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 133.0543ms

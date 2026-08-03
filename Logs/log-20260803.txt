@@ -1,0 +1,829 @@
+2026-08-03 12:51:09.186 +01:00 [INF] Request starting HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - application/json;charset=UTF-8 211
+2026-08-03 12:51:09.388 +01:00 [INF] CORS policy execution successful.
+2026-08-03 12:51:09.416 +01:00 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-08-03 12:51:09.430 +01:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-08-03 12:51:09.434 +01:00 [INF] Request finished HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - 401 0 null 249.6905ms
+2026-08-03 12:51:09.485 +01:00 [INF] Request starting HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - application/json;charset=UTF-8 211
+2026-08-03 12:51:09.486 +01:00 [INF] CORS policy execution successful.
+2026-08-03 12:51:09.488 +01:00 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-08-03 12:51:09.488 +01:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-08-03 12:51:09.489 +01:00 [INF] Request finished HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - 401 0 null 4.2008ms
+2026-08-03 12:52:33.297 +01:00 [INF] Request starting HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - application/json;charset=UTF-8 211
+2026-08-03 12:52:33.333 +01:00 [INF] CORS policy execution successful.
+2026-08-03 12:52:33.340 +01:00 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-08-03 12:52:33.348 +01:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-08-03 12:52:33.356 +01:00 [INF] Request finished HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - 401 0 null 65.1401ms
+2026-08-03 12:52:33.411 +01:00 [INF] Request starting HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - application/json;charset=UTF-8 211
+2026-08-03 12:52:33.414 +01:00 [INF] CORS policy execution successful.
+2026-08-03 12:52:33.415 +01:00 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-08-03 12:52:33.418 +01:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-08-03 12:52:33.419 +01:00 [INF] Request finished HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - 401 0 null 8.0207ms
+2026-08-03 12:54:04.996 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-08-03 12:54:05.108 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 113.3385ms
+2026-08-03 12:54:05.578 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-08-03 12:54:05.754 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 175.9003ms
+2026-08-03 12:59:44.515 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-08-03 12:59:44.553 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 40.256ms
+2026-08-03 12:59:44.729 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-08-03 12:59:44.787 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 58.2044ms
+2026-08-03 13:05:43.418 +01:00 [INF] Application is shutting down...
+2026-08-03 13:06:02.906 +01:00 [INF] Employee Leave Management API is starting...
+2026-08-03 13:06:02.985 +01:00 [INF] User profile is available. Using 'C:\Users\hp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-08-03 13:06:03.115 +01:00 [INF] Now listening on: http://localhost:5080
+2026-08-03 13:06:03.119 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-08-03 13:06:03.120 +01:00 [INF] Hosting environment: Development
+2026-08-03 13:06:03.121 +01:00 [INF] Content root path: C:\Users\hp\EmployeeLeaveManagementSystem\EmployeeLeaveManagement.API
+2026-08-03 13:06:44.266 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-08-03 13:06:44.383 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 119.0867ms
+2026-08-03 13:06:44.608 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-08-03 13:06:44.715 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 107.6169ms
+2026-08-03 13:08:32.401 +01:00 [INF] Request starting HTTP/1.1 OPTIONS http://explicit-nifty-jittery.ngrok-free.dev/api/Auth/login - null null
+2026-08-03 13:08:32.454 +01:00 [WRN] Failed to determine the https port for redirect.
+2026-08-03 13:08:32.460 +01:00 [INF] CORS policy execution successful.
+2026-08-03 13:08:32.466 +01:00 [INF] Request finished HTTP/1.1 OPTIONS http://explicit-nifty-jittery.ngrok-free.dev/api/Auth/login - 204 null null 67.3283ms
+2026-08-03 13:08:32.509 +01:00 [INF] Request starting HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Auth/login - application/json 51
+2026-08-03 13:08:32.519 +01:00 [INF] CORS policy execution successful.
+2026-08-03 13:08:32.629 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-08-03 13:08:32.717 +01:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(EmployeeLeaveManagement.API.DTOs.LoginDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-08-03 13:08:33.825 +01:00 [INF] Login attempt for user: admin
+2026-08-03 13:08:34.830 +01:00 [INF] Executed DbCommand (165ms) [Parameters=[@__loginDto_Username_0='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[CreatedDate], [u].[Email], [u].[FullName], [u].[IsActive], [u].[PasswordHash], [u].[Role], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__loginDto_Username_0
+2026-08-03 13:08:35.070 +01:00 [INF] Executed DbCommand (34ms) [Parameters=[@p0='?' (DbType = DateTime), @p1='?' (DbType = DateTime), @p2='?' (DbType = Boolean), @p3='?' (Size = 500), @p4='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [RefreshTokens] ([CreatedDate], [ExpiryDate], [IsRevoked], [Token], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-08-03 13:08:35.093 +01:00 [INF] User admin logged in successfully.
+2026-08-03 13:08:35.103 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.LoginResponseDto'.
+2026-08-03 13:08:35.121 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API) in 2397.9441ms
+2026-08-03 13:08:35.123 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-08-03 13:08:35.132 +01:00 [INF] Request finished HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Auth/login - 200 null application/json; charset=utf-8 2622.709ms
+2026-08-03 13:10:53.258 +01:00 [INF] Request starting HTTP/1.1 OPTIONS http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - null null
+2026-08-03 13:10:53.284 +01:00 [INF] CORS policy execution successful.
+2026-08-03 13:10:53.289 +01:00 [INF] Request finished HTTP/1.1 OPTIONS http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - 204 null null 33.5267ms
+2026-08-03 13:12:06.659 +01:00 [INF] Request starting HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/swagger/index.html - null null
+2026-08-03 13:12:06.710 +01:00 [INF] Request finished HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/swagger/index.html - 200 null text/html;charset=utf-8 52.0731ms
+2026-08-03 13:12:06.969 +01:00 [INF] Request starting HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/swagger/v1/swagger.json - null null
+2026-08-03 13:12:07.093 +01:00 [INF] Request finished HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 124.1988ms
+2026-08-03 13:12:54.196 +01:00 [INF] Request starting HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Auth/login - application/json 51
+2026-08-03 13:12:54.204 +01:00 [INF] CORS policy execution successful.
+2026-08-03 13:12:54.218 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-08-03 13:12:54.231 +01:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(EmployeeLeaveManagement.API.DTOs.LoginDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-08-03 13:12:54.374 +01:00 [INF] Login attempt for user: admin
+2026-08-03 13:12:54.570 +01:00 [INF] Executed DbCommand (162ms) [Parameters=[@__loginDto_Username_0='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[CreatedDate], [u].[Email], [u].[FullName], [u].[IsActive], [u].[PasswordHash], [u].[Role], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__loginDto_Username_0
+2026-08-03 13:12:54.652 +01:00 [INF] Executed DbCommand (45ms) [Parameters=[@p0='?' (DbType = DateTime), @p1='?' (DbType = DateTime), @p2='?' (DbType = Boolean), @p3='?' (Size = 500), @p4='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [RefreshTokens] ([CreatedDate], [ExpiryDate], [IsRevoked], [Token], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-08-03 13:12:54.655 +01:00 [INF] User admin logged in successfully.
+2026-08-03 13:12:54.657 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.LoginResponseDto'.
+2026-08-03 13:12:54.660 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API) in 427.1048ms
+2026-08-03 13:12:54.662 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-08-03 13:12:54.664 +01:00 [INF] Request finished HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Auth/login - 200 null application/json; charset=utf-8 468.2451ms
+2026-08-03 13:13:35.453 +01:00 [INF] Request starting HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - null null
+2026-08-03 13:13:35.489 +01:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenMalformedException: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EncodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString, TryReadJwtClaim tryReadJwtClaim)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+2026-08-03 13:13:35.531 +01:00 [INF] Bearer was not authenticated. Failure message: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EncodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+2026-08-03 13:13:35.543 +01:00 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin|Manager)
+2026-08-03 13:13:35.550 +01:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-08-03 13:13:35.552 +01:00 [INF] Request finished HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - 401 0 null 98.2853ms
+2026-08-03 13:13:50.958 +01:00 [INF] Request starting HTTP/1.1 OPTIONS http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - null null
+2026-08-03 13:13:50.961 +01:00 [INF] CORS policy execution successful.
+2026-08-03 13:13:50.962 +01:00 [INF] Request finished HTTP/1.1 OPTIONS http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - 204 null null 3.2097ms
+2026-08-03 13:20:39.039 +01:00 [INF] Application is shutting down...
+2026-08-03 13:21:08.480 +01:00 [INF] Employee Leave Management API is starting...
+2026-08-03 13:21:08.583 +01:00 [INF] User profile is available. Using 'C:\Users\hp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-08-03 13:21:08.725 +01:00 [INF] Now listening on: http://localhost:5080
+2026-08-03 13:21:08.730 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-08-03 13:21:08.732 +01:00 [INF] Hosting environment: Development
+2026-08-03 13:21:08.733 +01:00 [INF] Content root path: C:\Users\hp\EmployeeLeaveManagementSystem\EmployeeLeaveManagement.API
+2026-08-03 13:21:40.495 +01:00 [INF] Request starting HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - null null
+2026-08-03 13:21:40.604 +01:00 [WRN] Failed to determine the https port for redirect.
+2026-08-03 13:21:40.715 +01:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenMalformedException: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EncodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString, TryReadJwtClaim tryReadJwtClaim)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+2026-08-03 13:21:40.761 +01:00 [INF] Bearer was not authenticated. Failure message: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EncodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+2026-08-03 13:21:40.773 +01:00 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin|Manager)
+2026-08-03 13:21:40.789 +01:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-08-03 13:21:40.806 +01:00 [INF] Request finished HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - 401 0 null 314.9956ms
+2026-08-03 13:21:44.822 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-08-03 13:21:45.014 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 192.7953ms
+2026-08-03 13:21:45.255 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-08-03 13:21:45.462 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 206.7496ms
+2026-08-03 13:22:01.005 +01:00 [INF] Request starting HTTP/1.1 OPTIONS http://explicit-nifty-jittery.ngrok-free.dev/api/Auth/login - null null
+2026-08-03 13:22:01.011 +01:00 [INF] CORS policy execution successful.
+2026-08-03 13:22:01.019 +01:00 [INF] Request finished HTTP/1.1 OPTIONS http://explicit-nifty-jittery.ngrok-free.dev/api/Auth/login - 204 null null 13.8685ms
+2026-08-03 13:22:01.088 +01:00 [INF] Request starting HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Auth/login - application/json 51
+2026-08-03 13:22:01.095 +01:00 [INF] CORS policy execution successful.
+2026-08-03 13:22:01.125 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-08-03 13:22:01.277 +01:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(EmployeeLeaveManagement.API.DTOs.LoginDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-08-03 13:22:03.233 +01:00 [INF] Login attempt for user: admin
+2026-08-03 13:22:04.566 +01:00 [INF] Executed DbCommand (206ms) [Parameters=[@__loginDto_Username_0='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[CreatedDate], [u].[Email], [u].[FullName], [u].[IsActive], [u].[PasswordHash], [u].[Role], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__loginDto_Username_0
+2026-08-03 13:22:05.287 +01:00 [INF] Executed DbCommand (71ms) [Parameters=[@p0='?' (DbType = DateTime), @p1='?' (DbType = DateTime), @p2='?' (DbType = Boolean), @p3='?' (Size = 500), @p4='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [RefreshTokens] ([CreatedDate], [ExpiryDate], [IsRevoked], [Token], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-08-03 13:22:05.326 +01:00 [INF] User admin logged in successfully.
+2026-08-03 13:22:05.337 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.LoginResponseDto'.
+2026-08-03 13:22:05.374 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API) in 4088.9205ms
+2026-08-03 13:22:05.377 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-08-03 13:22:05.401 +01:00 [INF] Request finished HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Auth/login - 200 null application/json; charset=utf-8 4313.1535ms
+2026-08-03 13:22:35.456 +01:00 [INF] Request starting HTTP/1.1 OPTIONS http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - null null
+2026-08-03 13:22:35.462 +01:00 [INF] CORS policy execution successful.
+2026-08-03 13:22:35.463 +01:00 [INF] Request finished HTTP/1.1 OPTIONS http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - 204 null null 7.1142ms
+2026-08-03 13:22:48.016 +01:00 [INF] Request starting HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/swagger/index.html - null null
+2026-08-03 13:22:48.025 +01:00 [INF] Request finished HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/swagger/index.html - 200 null text/html;charset=utf-8 8.4722ms
+2026-08-03 13:22:48.206 +01:00 [INF] Request starting HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/swagger/favicon-32x32.png - null null
+2026-08-03 13:22:48.230 +01:00 [INF] Request starting HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/swagger/v1/swagger.json - null null
+2026-08-03 13:22:48.238 +01:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-08-03 13:22:48.243 +01:00 [INF] Request finished HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/swagger/favicon-32x32.png - 200 628 image/png 38.1459ms
+2026-08-03 13:22:48.253 +01:00 [INF] Request finished HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 22.1622ms
+2026-08-03 13:23:07.662 +01:00 [INF] Request starting HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Auth/login - application/json 51
+2026-08-03 13:23:07.677 +01:00 [INF] CORS policy execution successful.
+2026-08-03 13:23:07.679 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-08-03 13:23:07.681 +01:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(EmployeeLeaveManagement.API.DTOs.LoginDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-08-03 13:23:07.785 +01:00 [INF] Login attempt for user: admin
+2026-08-03 13:23:07.821 +01:00 [INF] Executed DbCommand (22ms) [Parameters=[@__loginDto_Username_0='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[CreatedDate], [u].[Email], [u].[FullName], [u].[IsActive], [u].[PasswordHash], [u].[Role], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__loginDto_Username_0
+2026-08-03 13:23:07.840 +01:00 [INF] Executed DbCommand (9ms) [Parameters=[@p0='?' (DbType = DateTime), @p1='?' (DbType = DateTime), @p2='?' (DbType = Boolean), @p3='?' (Size = 500), @p4='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [RefreshTokens] ([CreatedDate], [ExpiryDate], [IsRevoked], [Token], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-08-03 13:23:07.843 +01:00 [INF] User admin logged in successfully.
+2026-08-03 13:23:07.845 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.LoginResponseDto'.
+2026-08-03 13:23:07.848 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API) in 162.969ms
+2026-08-03 13:23:07.849 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-08-03 13:23:07.851 +01:00 [INF] Request finished HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Auth/login - 200 null application/json; charset=utf-8 188.7141ms
+2026-08-03 13:23:34.272 +01:00 [INF] Request starting HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - null null
+2026-08-03 13:23:34.278 +01:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenMalformedException: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EncodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString, TryReadJwtClaim tryReadJwtClaim)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+2026-08-03 13:23:34.282 +01:00 [INF] Bearer was not authenticated. Failure message: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EncodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+2026-08-03 13:23:34.286 +01:00 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin|Manager)
+2026-08-03 13:23:34.289 +01:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-08-03 13:23:34.292 +01:00 [INF] Request finished HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - 401 0 null 20.1953ms
+2026-08-03 13:33:52.916 +01:00 [INF] Request starting HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/swagger/index.html - null null
+2026-08-03 13:33:53.022 +01:00 [INF] Request finished HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/swagger/index.html - 200 null text/html;charset=utf-8 114.0153ms
+2026-08-03 13:33:53.442 +01:00 [INF] Request starting HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/swagger/v1/swagger.json - null null
+2026-08-03 13:33:53.634 +01:00 [INF] Request finished HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 192.6582ms
+2026-08-03 13:34:13.763 +01:00 [INF] Request starting HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Auth/login - application/json 51
+2026-08-03 13:34:13.780 +01:00 [INF] CORS policy execution successful.
+2026-08-03 13:34:13.806 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-08-03 13:34:13.822 +01:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(EmployeeLeaveManagement.API.DTOs.LoginDto) on controller EmployeeLeaveManagement.API.Controllers.AuthController (EmployeeLeaveManagement.API).
+2026-08-03 13:34:14.017 +01:00 [INF] Login attempt for user: admin
+2026-08-03 13:34:14.353 +01:00 [INF] Executed DbCommand (160ms) [Parameters=[@__loginDto_Username_0='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[CreatedDate], [u].[Email], [u].[FullName], [u].[IsActive], [u].[PasswordHash], [u].[Role], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__loginDto_Username_0
+2026-08-03 13:34:14.463 +01:00 [INF] Executed DbCommand (60ms) [Parameters=[@p0='?' (DbType = DateTime), @p1='?' (DbType = DateTime), @p2='?' (DbType = Boolean), @p3='?' (Size = 500), @p4='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [RefreshTokens] ([CreatedDate], [ExpiryDate], [IsRevoked], [Token], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2026-08-03 13:34:14.468 +01:00 [INF] User admin logged in successfully.
+2026-08-03 13:34:14.471 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.LoginResponseDto'.
+2026-08-03 13:34:14.474 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API) in 647.752ms
+2026-08-03 13:34:14.478 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.AuthController.Login (EmployeeLeaveManagement.API)'
+2026-08-03 13:34:14.481 +01:00 [INF] Request finished HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Auth/login - 200 null application/json; charset=utf-8 718.2545ms
+2026-08-03 13:34:37.391 +01:00 [INF] Request starting HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - null null
+2026-08-03 13:34:37.615 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.GetEmployees (EmployeeLeaveManagement.API)'
+2026-08-03 13:34:37.683 +01:00 [INF] Route matched with {action = "GetEmployees", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetEmployees(EmployeeLeaveManagement.API.Helpers.EmployeeQueryParameters) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 13:34:38.131 +01:00 [INF] Executed DbCommand (67ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [Employee] AS [e]
+2026-08-03 13:34:38.351 +01:00 [INF] Executed DbCommand (63ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[EmployeeID], [t].[CreatedDate], [t].[DepartmentID], [t].[Email], [t].[EmployeeCode], [t].[FirstName], [t].[HireDate], [t].[IsActive], [t].[JobTitle], [t].[LastName], [t].[ManagerID], [t].[Phone], [t].[Salary], [d].[DepartmentID], [d].[CreatedDate], [d].[DepartmentCode], [d].[DepartmentName], [d].[IsActive], [d].[Location]
+FROM (
+    SELECT [e].[EmployeeID], [e].[CreatedDate], [e].[DepartmentID], [e].[Email], [e].[EmployeeCode], [e].[FirstName], [e].[HireDate], [e].[IsActive], [e].[JobTitle], [e].[LastName], [e].[ManagerID], [e].[Phone], [e].[Salary]
+    FROM [Employee] AS [e]
+    ORDER BY [e].[EmployeeID]
+    OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+) AS [t]
+INNER JOIN [Department] AS [d] ON [t].[DepartmentID] = [d].[DepartmentID]
+ORDER BY [t].[EmployeeID]
+2026-08-03 13:34:38.540 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.Helpers.PagedResult`1[[EmployeeLeaveManagement.API.DTOs.EmployeeDto, EmployeeLeaveManagement.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-08-03 13:34:38.569 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.GetEmployees (EmployeeLeaveManagement.API) in 883.4278ms
+2026-08-03 13:34:38.572 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.GetEmployees (EmployeeLeaveManagement.API)'
+2026-08-03 13:34:38.573 +01:00 [INF] Request finished HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - 200 null application/json; charset=utf-8 1181.8617ms
+2026-08-03 13:36:19.187 +01:00 [INF] Request starting HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - application/json 257
+2026-08-03 13:36:19.199 +01:00 [INF] CORS policy execution successful.
+2026-08-03 13:36:19.226 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.CreateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 13:36:19.280 +01:00 [INF] Route matched with {action = "CreateEmployee", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateEmployee(EmployeeLeaveManagement.API.DTOs.CreateEmployeeDto) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 13:36:19.834 +01:00 [ERR] Failed executing DbCommand (164ms) [Parameters=[@p0='?' (DbType = DateTime), @p1='?' (DbType = Int32), @p2='?' (Size = 100) (DbType = AnsiString), @p3='?' (Size = 20) (DbType = AnsiString), @p4='?' (Size = 50) (DbType = AnsiString), @p5='?' (DbType = Date), @p6='?' (DbType = Boolean), @p7='?' (Size = 100) (DbType = AnsiString), @p8='?' (Size = 50) (DbType = AnsiString), @p9='?' (DbType = Int32), @p10='?' (Size = 15) (DbType = AnsiString), @p11='?' (Precision = 10) (Scale = 2) (DbType = Decimal)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Employee] ([CreatedDate], [DepartmentID], [Email], [EmployeeCode], [FirstName], [HireDate], [IsActive], [JobTitle], [LastName], [ManagerID], [Phone], [Salary])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11);
+SELECT [EmployeeID]
+FROM [Employee]
+WHERE @@ROWCOUNT = 1 AND [EmployeeID] = scope_identity();
+2026-08-03 13:36:19.940 +01:00 [ERR] An exception occurred in the database while saving changes for context type 'EmployeeLeaveManagement.API.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Employee_Department". The conflict occurred in database "EmployeeLeaveManagementDB", table "dbo.Department", column 'DepartmentID'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:b0901084-2d2c-41d4-bb5a-6a270c9a2365
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Employee_Department". The conflict occurred in database "EmployeeLeaveManagementDB", table "dbo.Department", column 'DepartmentID'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:b0901084-2d2c-41d4-bb5a-6a270c9a2365
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2026-08-03 13:36:19.964 +01:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-08-03 13:36:20.003 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.CreateEmployee (EmployeeLeaveManagement.API) in 719.8656ms
+2026-08-03 13:36:20.006 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.CreateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 13:36:20.008 +01:00 [INF] Request finished HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - 400 null application/json; charset=utf-8 821.6548ms
+2026-08-03 13:36:33.809 +01:00 [INF] Request starting HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - application/json 270
+2026-08-03 13:36:33.812 +01:00 [INF] CORS policy execution successful.
+2026-08-03 13:36:33.814 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.CreateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 13:36:33.815 +01:00 [INF] Route matched with {action = "CreateEmployee", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateEmployee(EmployeeLeaveManagement.API.DTOs.CreateEmployeeDto) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 13:36:33.879 +01:00 [INF] Executed DbCommand (48ms) [Parameters=[@p0='?' (DbType = DateTime), @p1='?' (DbType = Int32), @p2='?' (Size = 100) (DbType = AnsiString), @p3='?' (Size = 20) (DbType = AnsiString), @p4='?' (Size = 50) (DbType = AnsiString), @p5='?' (DbType = Date), @p6='?' (DbType = Boolean), @p7='?' (Size = 100) (DbType = AnsiString), @p8='?' (Size = 50) (DbType = AnsiString), @p9='?' (DbType = Int32), @p10='?' (Size = 15) (DbType = AnsiString), @p11='?' (Precision = 10) (Scale = 2) (DbType = Decimal)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Employee] ([CreatedDate], [DepartmentID], [Email], [EmployeeCode], [FirstName], [HireDate], [IsActive], [JobTitle], [LastName], [ManagerID], [Phone], [Salary])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11);
+SELECT [EmployeeID]
+FROM [Employee]
+WHERE @@ROWCOUNT = 1 AND [EmployeeID] = scope_identity();
+2026-08-03 13:36:33.996 +01:00 [INF] Executed DbCommand (14ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [d].[DepartmentID], [d].[CreatedDate], [d].[DepartmentCode], [d].[DepartmentName], [d].[IsActive], [d].[Location]
+FROM [Department] AS [d]
+WHERE [d].[DepartmentID] = @__p_0
+2026-08-03 13:36:34.006 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.EmployeeDto'.
+2026-08-03 13:36:34.009 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.CreateEmployee (EmployeeLeaveManagement.API) in 190.8882ms
+2026-08-03 13:36:34.011 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.CreateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 13:36:34.012 +01:00 [INF] Request finished HTTP/1.1 POST http://explicit-nifty-jittery.ngrok-free.dev/api/Employee - 200 null application/json; charset=utf-8 203.3697ms
+2026-08-03 13:38:18.544 +01:00 [INF] Request starting HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/1 - null null
+2026-08-03 13:38:18.592 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.GetEmployeeById (EmployeeLeaveManagement.API)'
+2026-08-03 13:38:18.644 +01:00 [INF] Route matched with {action = "GetEmployeeById", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetEmployeeById(Int32) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 13:38:18.855 +01:00 [INF] Executed DbCommand (107ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [e].[EmployeeID], [e].[CreatedDate], [e].[DepartmentID], [e].[Email], [e].[EmployeeCode], [e].[FirstName], [e].[HireDate], [e].[IsActive], [e].[JobTitle], [e].[LastName], [e].[ManagerID], [e].[Phone], [e].[Salary], [d].[DepartmentID], [d].[CreatedDate], [d].[DepartmentCode], [d].[DepartmentName], [d].[IsActive], [d].[Location]
+FROM [Employee] AS [e]
+INNER JOIN [Department] AS [d] ON [e].[DepartmentID] = [d].[DepartmentID]
+WHERE [e].[EmployeeID] = @__id_0
+2026-08-03 13:38:18.864 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.EmployeeDto'.
+2026-08-03 13:38:18.893 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.GetEmployeeById (EmployeeLeaveManagement.API) in 247.3242ms
+2026-08-03 13:38:18.895 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.GetEmployeeById (EmployeeLeaveManagement.API)'
+2026-08-03 13:38:18.898 +01:00 [INF] Request finished HTTP/1.1 GET http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/1 - 200 null application/json; charset=utf-8 355.288ms
+2026-08-03 13:39:21.591 +01:00 [INF] Request starting HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/48 - application/json 257
+2026-08-03 13:39:21.614 +01:00 [INF] CORS policy execution successful.
+2026-08-03 13:39:21.632 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 13:39:21.647 +01:00 [INF] Route matched with {action = "UpdateEmployee", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateEmployee(Int32, EmployeeLeaveManagement.API.DTOs.UpdateEmployeeDto) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 13:39:21.912 +01:00 [INF] Executed DbCommand (177ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [e].[EmployeeID], [e].[CreatedDate], [e].[DepartmentID], [e].[Email], [e].[EmployeeCode], [e].[FirstName], [e].[HireDate], [e].[IsActive], [e].[JobTitle], [e].[LastName], [e].[ManagerID], [e].[Phone], [e].[Salary], [d].[DepartmentID], [d].[CreatedDate], [d].[DepartmentCode], [d].[DepartmentName], [d].[IsActive], [d].[Location]
+FROM [Employee] AS [e]
+INNER JOIN [Department] AS [d] ON [e].[DepartmentID] = [d].[DepartmentID]
+WHERE [e].[EmployeeID] = @__id_0
+2026-08-03 13:39:22.183 +01:00 [ERR] Failed executing DbCommand (143ms) [Parameters=[@p9='?' (DbType = Int32), @p0='?' (DbType = Int32), @p1='?' (Size = 100) (DbType = AnsiString), @p2='?' (Size = 20) (DbType = AnsiString), @p3='?' (Size = 50) (DbType = AnsiString), @p4='?' (Size = 100) (DbType = AnsiString), @p5='?' (Size = 50) (DbType = AnsiString), @p6='?' (DbType = Int32), @p7='?' (Size = 15) (DbType = AnsiString), @p8='?' (Precision = 10) (Scale = 2) (DbType = Decimal)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Employee] SET [DepartmentID] = @p0, [Email] = @p1, [EmployeeCode] = @p2, [FirstName] = @p3, [JobTitle] = @p4, [LastName] = @p5, [ManagerID] = @p6, [Phone] = @p7, [Salary] = @p8
+WHERE [EmployeeID] = @p9;
+SELECT @@ROWCOUNT;
+2026-08-03 13:39:22.205 +01:00 [ERR] An exception occurred in the database while saving changes for context type 'EmployeeLeaveManagement.API.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Employee_Department". The conflict occurred in database "EmployeeLeaveManagementDB", table "dbo.Department", column 'DepartmentID'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:b0901084-2d2c-41d4-bb5a-6a270c9a2365
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Employee_Department". The conflict occurred in database "EmployeeLeaveManagementDB", table "dbo.Department", column 'DepartmentID'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:b0901084-2d2c-41d4-bb5a-6a270c9a2365
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2026-08-03 13:39:22.218 +01:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-08-03 13:39:22.221 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API) in 572.0255ms
+2026-08-03 13:39:22.224 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 13:39:22.225 +01:00 [INF] Request finished HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/48 - 400 null application/json; charset=utf-8 634.2046ms
+2026-08-03 13:39:37.600 +01:00 [INF] Request starting HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/48 - application/json 249
+2026-08-03 13:39:37.605 +01:00 [INF] CORS policy execution successful.
+2026-08-03 13:39:37.608 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 13:39:37.609 +01:00 [INF] Route matched with {action = "UpdateEmployee", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateEmployee(Int32, EmployeeLeaveManagement.API.DTOs.UpdateEmployeeDto) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 13:39:37.641 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2026-08-03 13:39:37.722 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API) in 109.235ms
+2026-08-03 13:39:37.724 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 13:39:37.726 +01:00 [INF] Request finished HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/48 - 400 null application/problem+json; charset=utf-8 126.1118ms
+2026-08-03 14:08:09.101 +01:00 [INF] Request starting HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/48 - application/json 257
+2026-08-03 14:08:09.156 +01:00 [INF] CORS policy execution successful.
+2026-08-03 14:08:09.259 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:08:09.284 +01:00 [INF] Route matched with {action = "UpdateEmployee", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateEmployee(Int32, EmployeeLeaveManagement.API.DTOs.UpdateEmployeeDto) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 14:08:10.106 +01:00 [INF] Executed DbCommand (385ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [e].[EmployeeID], [e].[CreatedDate], [e].[DepartmentID], [e].[Email], [e].[EmployeeCode], [e].[FirstName], [e].[HireDate], [e].[IsActive], [e].[JobTitle], [e].[LastName], [e].[ManagerID], [e].[Phone], [e].[Salary], [d].[DepartmentID], [d].[CreatedDate], [d].[DepartmentCode], [d].[DepartmentName], [d].[IsActive], [d].[Location]
+FROM [Employee] AS [e]
+INNER JOIN [Department] AS [d] ON [e].[DepartmentID] = [d].[DepartmentID]
+WHERE [e].[EmployeeID] = @__id_0
+2026-08-03 14:08:10.517 +01:00 [ERR] Failed executing DbCommand (344ms) [Parameters=[@p9='?' (DbType = Int32), @p0='?' (DbType = Int32), @p1='?' (Size = 100) (DbType = AnsiString), @p2='?' (Size = 20) (DbType = AnsiString), @p3='?' (Size = 50) (DbType = AnsiString), @p4='?' (Size = 100) (DbType = AnsiString), @p5='?' (Size = 50) (DbType = AnsiString), @p6='?' (DbType = Int32), @p7='?' (Size = 15) (DbType = AnsiString), @p8='?' (Precision = 10) (Scale = 2) (DbType = Decimal)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Employee] SET [DepartmentID] = @p0, [Email] = @p1, [EmployeeCode] = @p2, [FirstName] = @p3, [JobTitle] = @p4, [LastName] = @p5, [ManagerID] = @p6, [Phone] = @p7, [Salary] = @p8
+WHERE [EmployeeID] = @p9;
+SELECT @@ROWCOUNT;
+2026-08-03 14:08:10.547 +01:00 [ERR] An exception occurred in the database while saving changes for context type 'EmployeeLeaveManagement.API.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Employee_Department". The conflict occurred in database "EmployeeLeaveManagementDB", table "dbo.Department", column 'DepartmentID'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:acf6eee3-4718-4614-a2f8-552b830d03bf
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Employee_Department". The conflict occurred in database "EmployeeLeaveManagementDB", table "dbo.Department", column 'DepartmentID'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:acf6eee3-4718-4614-a2f8-552b830d03bf
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2026-08-03 14:08:10.561 +01:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-08-03 14:08:10.570 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API) in 1282.1981ms
+2026-08-03 14:08:10.571 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:08:10.574 +01:00 [INF] Request finished HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/48 - 400 null application/json; charset=utf-8 1480.56ms
+2026-08-03 14:08:31.807 +01:00 [INF] Request starting HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/0 - application/json 257
+2026-08-03 14:08:31.812 +01:00 [INF] CORS policy execution successful.
+2026-08-03 14:08:31.814 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:08:31.815 +01:00 [INF] Route matched with {action = "UpdateEmployee", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateEmployee(Int32, EmployeeLeaveManagement.API.DTOs.UpdateEmployeeDto) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 14:08:31.856 +01:00 [INF] Executed DbCommand (36ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [e].[EmployeeID], [e].[CreatedDate], [e].[DepartmentID], [e].[Email], [e].[EmployeeCode], [e].[FirstName], [e].[HireDate], [e].[IsActive], [e].[JobTitle], [e].[LastName], [e].[ManagerID], [e].[Phone], [e].[Salary], [d].[DepartmentID], [d].[CreatedDate], [d].[DepartmentCode], [d].[DepartmentName], [d].[IsActive], [d].[Location]
+FROM [Employee] AS [e]
+INNER JOIN [Department] AS [d] ON [e].[DepartmentID] = [d].[DepartmentID]
+WHERE [e].[EmployeeID] = @__id_0
+2026-08-03 14:08:31.865 +01:00 [INF] Executing NotFoundObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-08-03 14:08:31.895 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API) in 77.8159ms
+2026-08-03 14:08:31.897 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:08:31.898 +01:00 [INF] Request finished HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/0 - 404 null application/json; charset=utf-8 90.8128ms
+2026-08-03 14:11:19.798 +01:00 [INF] Request starting HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/48 - application/json 257
+2026-08-03 14:11:19.825 +01:00 [INF] CORS policy execution successful.
+2026-08-03 14:11:19.869 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:11:19.879 +01:00 [INF] Route matched with {action = "UpdateEmployee", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateEmployee(Int32, EmployeeLeaveManagement.API.DTOs.UpdateEmployeeDto) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 14:11:20.061 +01:00 [INF] Executed DbCommand (35ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [e].[EmployeeID], [e].[CreatedDate], [e].[DepartmentID], [e].[Email], [e].[EmployeeCode], [e].[FirstName], [e].[HireDate], [e].[IsActive], [e].[JobTitle], [e].[LastName], [e].[ManagerID], [e].[Phone], [e].[Salary], [d].[DepartmentID], [d].[CreatedDate], [d].[DepartmentCode], [d].[DepartmentName], [d].[IsActive], [d].[Location]
+FROM [Employee] AS [e]
+INNER JOIN [Department] AS [d] ON [e].[DepartmentID] = [d].[DepartmentID]
+WHERE [e].[EmployeeID] = @__id_0
+2026-08-03 14:11:20.214 +01:00 [ERR] Failed executing DbCommand (94ms) [Parameters=[@p9='?' (DbType = Int32), @p0='?' (DbType = Int32), @p1='?' (Size = 100) (DbType = AnsiString), @p2='?' (Size = 20) (DbType = AnsiString), @p3='?' (Size = 50) (DbType = AnsiString), @p4='?' (Size = 100) (DbType = AnsiString), @p5='?' (Size = 50) (DbType = AnsiString), @p6='?' (DbType = Int32), @p7='?' (Size = 15) (DbType = AnsiString), @p8='?' (Precision = 10) (Scale = 2) (DbType = Decimal)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Employee] SET [DepartmentID] = @p0, [Email] = @p1, [EmployeeCode] = @p2, [FirstName] = @p3, [JobTitle] = @p4, [LastName] = @p5, [ManagerID] = @p6, [Phone] = @p7, [Salary] = @p8
+WHERE [EmployeeID] = @p9;
+SELECT @@ROWCOUNT;
+2026-08-03 14:11:20.257 +01:00 [ERR] An exception occurred in the database while saving changes for context type 'EmployeeLeaveManagement.API.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Employee_Department". The conflict occurred in database "EmployeeLeaveManagementDB", table "dbo.Department", column 'DepartmentID'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:acf6eee3-4718-4614-a2f8-552b830d03bf
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Employee_Department". The conflict occurred in database "EmployeeLeaveManagementDB", table "dbo.Department", column 'DepartmentID'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:acf6eee3-4718-4614-a2f8-552b830d03bf
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2026-08-03 14:11:20.271 +01:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-08-03 14:11:20.275 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API) in 394.1031ms
+2026-08-03 14:11:20.277 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:11:20.280 +01:00 [INF] Request finished HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/48 - 400 null application/json; charset=utf-8 485.0224ms
+2026-08-03 14:13:17.127 +01:00 [INF] Request starting HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/1 - application/json 257
+2026-08-03 14:13:17.151 +01:00 [INF] CORS policy execution successful.
+2026-08-03 14:13:17.218 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:13:17.233 +01:00 [INF] Route matched with {action = "UpdateEmployee", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateEmployee(Int32, EmployeeLeaveManagement.API.DTOs.UpdateEmployeeDto) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 14:13:17.592 +01:00 [INF] Executed DbCommand (266ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [e].[EmployeeID], [e].[CreatedDate], [e].[DepartmentID], [e].[Email], [e].[EmployeeCode], [e].[FirstName], [e].[HireDate], [e].[IsActive], [e].[JobTitle], [e].[LastName], [e].[ManagerID], [e].[Phone], [e].[Salary], [d].[DepartmentID], [d].[CreatedDate], [d].[DepartmentCode], [d].[DepartmentName], [d].[IsActive], [d].[Location]
+FROM [Employee] AS [e]
+INNER JOIN [Department] AS [d] ON [e].[DepartmentID] = [d].[DepartmentID]
+WHERE [e].[EmployeeID] = @__id_0
+2026-08-03 14:13:17.860 +01:00 [ERR] Failed executing DbCommand (178ms) [Parameters=[@p10='?' (DbType = Int32), @p0='?' (DbType = Int32), @p1='?' (Size = 100) (DbType = AnsiString), @p2='?' (Size = 20) (DbType = AnsiString), @p3='?' (Size = 50) (DbType = AnsiString), @p4='?' (DbType = Date), @p5='?' (Size = 100) (DbType = AnsiString), @p6='?' (Size = 50) (DbType = AnsiString), @p7='?' (DbType = Int32), @p8='?' (Size = 15) (DbType = AnsiString), @p9='?' (Precision = 10) (Scale = 2) (DbType = Decimal)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Employee] SET [DepartmentID] = @p0, [Email] = @p1, [EmployeeCode] = @p2, [FirstName] = @p3, [HireDate] = @p4, [JobTitle] = @p5, [LastName] = @p6, [ManagerID] = @p7, [Phone] = @p8, [Salary] = @p9
+WHERE [EmployeeID] = @p10;
+SELECT @@ROWCOUNT;
+2026-08-03 14:13:17.907 +01:00 [ERR] An exception occurred in the database while saving changes for context type 'EmployeeLeaveManagement.API.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Employee_Department". The conflict occurred in database "EmployeeLeaveManagementDB", table "dbo.Department", column 'DepartmentID'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:acf6eee3-4718-4614-a2f8-552b830d03bf
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Employee_Department". The conflict occurred in database "EmployeeLeaveManagementDB", table "dbo.Department", column 'DepartmentID'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:acf6eee3-4718-4614-a2f8-552b830d03bf
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2026-08-03 14:13:17.924 +01:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-08-03 14:13:17.935 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API) in 698.9006ms
+2026-08-03 14:13:17.944 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:13:17.948 +01:00 [INF] Request finished HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/1 - 400 null application/json; charset=utf-8 825.8491ms
+2026-08-03 14:13:40.245 +01:00 [INF] Request starting HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/1 - application/json 257
+2026-08-03 14:13:40.249 +01:00 [INF] CORS policy execution successful.
+2026-08-03 14:13:40.255 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:13:40.256 +01:00 [INF] Route matched with {action = "UpdateEmployee", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateEmployee(Int32, EmployeeLeaveManagement.API.DTOs.UpdateEmployeeDto) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 14:13:40.289 +01:00 [INF] Executed DbCommand (17ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [e].[EmployeeID], [e].[CreatedDate], [e].[DepartmentID], [e].[Email], [e].[EmployeeCode], [e].[FirstName], [e].[HireDate], [e].[IsActive], [e].[JobTitle], [e].[LastName], [e].[ManagerID], [e].[Phone], [e].[Salary], [d].[DepartmentID], [d].[CreatedDate], [d].[DepartmentCode], [d].[DepartmentName], [d].[IsActive], [d].[Location]
+FROM [Employee] AS [e]
+INNER JOIN [Department] AS [d] ON [e].[DepartmentID] = [d].[DepartmentID]
+WHERE [e].[EmployeeID] = @__id_0
+2026-08-03 14:13:40.309 +01:00 [ERR] Failed executing DbCommand (14ms) [Parameters=[@p10='?' (DbType = Int32), @p0='?' (DbType = Int32), @p1='?' (Size = 100) (DbType = AnsiString), @p2='?' (Size = 20) (DbType = AnsiString), @p3='?' (Size = 50) (DbType = AnsiString), @p4='?' (DbType = Date), @p5='?' (Size = 100) (DbType = AnsiString), @p6='?' (Size = 50) (DbType = AnsiString), @p7='?' (DbType = Int32), @p8='?' (Size = 15) (DbType = AnsiString), @p9='?' (Precision = 10) (Scale = 2) (DbType = Decimal)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Employee] SET [DepartmentID] = @p0, [Email] = @p1, [EmployeeCode] = @p2, [FirstName] = @p3, [HireDate] = @p4, [JobTitle] = @p5, [LastName] = @p6, [ManagerID] = @p7, [Phone] = @p8, [Salary] = @p9
+WHERE [EmployeeID] = @p10;
+SELECT @@ROWCOUNT;
+2026-08-03 14:13:40.313 +01:00 [ERR] An exception occurred in the database while saving changes for context type 'EmployeeLeaveManagement.API.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Employee_Department". The conflict occurred in database "EmployeeLeaveManagementDB", table "dbo.Department", column 'DepartmentID'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:acf6eee3-4718-4614-a2f8-552b830d03bf
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The UPDATE statement conflicted with the FOREIGN KEY constraint "FK_Employee_Department". The conflict occurred in database "EmployeeLeaveManagementDB", table "dbo.Department", column 'DepartmentID'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:acf6eee3-4718-4614-a2f8-552b830d03bf
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2026-08-03 14:13:40.326 +01:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-08-03 14:13:40.327 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API) in 69.63ms
+2026-08-03 14:13:40.330 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:13:40.332 +01:00 [INF] Request finished HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/1 - 400 null application/json; charset=utf-8 88.422ms
+2026-08-03 14:15:17.002 +01:00 [INF] Request starting HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/1 - application/json 268
+2026-08-03 14:15:17.048 +01:00 [INF] CORS policy execution successful.
+2026-08-03 14:15:17.093 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:15:17.105 +01:00 [INF] Route matched with {action = "UpdateEmployee", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateEmployee(Int32, EmployeeLeaveManagement.API.DTOs.UpdateEmployeeDto) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 14:15:17.297 +01:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2026-08-03 14:15:17.310 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API) in 201.1542ms
+2026-08-03 14:15:17.312 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:15:17.314 +01:00 [INF] Request finished HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/1 - 400 null application/problem+json; charset=utf-8 316.4855ms
+2026-08-03 14:16:23.592 +01:00 [INF] Request starting HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/1 - application/json 268
+2026-08-03 14:16:23.605 +01:00 [INF] CORS policy execution successful.
+2026-08-03 14:16:23.627 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:16:23.650 +01:00 [INF] Route matched with {action = "UpdateEmployee", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateEmployee(Int32, EmployeeLeaveManagement.API.DTOs.UpdateEmployeeDto) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 14:16:23.842 +01:00 [INF] Executed DbCommand (62ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [e].[EmployeeID], [e].[CreatedDate], [e].[DepartmentID], [e].[Email], [e].[EmployeeCode], [e].[FirstName], [e].[HireDate], [e].[IsActive], [e].[JobTitle], [e].[LastName], [e].[ManagerID], [e].[Phone], [e].[Salary], [d].[DepartmentID], [d].[CreatedDate], [d].[DepartmentCode], [d].[DepartmentName], [d].[IsActive], [d].[Location]
+FROM [Employee] AS [e]
+INNER JOIN [Department] AS [d] ON [e].[DepartmentID] = [d].[DepartmentID]
+WHERE [e].[EmployeeID] = @__id_0
+2026-08-03 14:16:23.985 +01:00 [ERR] Failed executing DbCommand (93ms) [Parameters=[@p9='?' (DbType = Int32), @p0='?' (Size = 100) (DbType = AnsiString), @p1='?' (Size = 20) (DbType = AnsiString), @p2='?' (Size = 50) (DbType = AnsiString), @p3='?' (DbType = Date), @p4='?' (Size = 100) (DbType = AnsiString), @p5='?' (Size = 50) (DbType = AnsiString), @p6='?' (DbType = Int32), @p7='?' (Size = 15) (DbType = AnsiString), @p8='?' (Precision = 10) (Scale = 2) (DbType = Decimal)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Employee] SET [Email] = @p0, [EmployeeCode] = @p1, [FirstName] = @p2, [HireDate] = @p3, [JobTitle] = @p4, [LastName] = @p5, [ManagerID] = @p6, [Phone] = @p7, [Salary] = @p8
+WHERE [EmployeeID] = @p9;
+SELECT @@ROWCOUNT;
+2026-08-03 14:16:24.014 +01:00 [ERR] An exception occurred in the database while saving changes for context type 'EmployeeLeaveManagement.API.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UQ__Employee__1F642548FD768C62'. Cannot insert duplicate key in object 'dbo.Employee'. The duplicate key value is (EMP010).
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:acf6eee3-4718-4614-a2f8-552b830d03bf
+Error Number:2627,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UQ__Employee__1F642548FD768C62'. Cannot insert duplicate key in object 'dbo.Employee'. The duplicate key value is (EMP010).
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__211_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:acf6eee3-4718-4614-a2f8-552b830d03bf
+Error Number:2627,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2026-08-03 14:16:24.026 +01:00 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-08-03 14:16:24.030 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API) in 375.7629ms
+2026-08-03 14:16:24.037 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:16:24.040 +01:00 [INF] Request finished HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/1 - 400 null application/json; charset=utf-8 449.4445ms
+2026-08-03 14:17:49.606 +01:00 [INF] Request starting HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/48 - application/json 275
+2026-08-03 14:17:49.659 +01:00 [INF] CORS policy execution successful.
+2026-08-03 14:17:49.780 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:17:49.799 +01:00 [INF] Route matched with {action = "UpdateEmployee", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateEmployee(Int32, EmployeeLeaveManagement.API.DTOs.UpdateEmployeeDto) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 14:17:51.445 +01:00 [INF] Executed DbCommand (1,288ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [e].[EmployeeID], [e].[CreatedDate], [e].[DepartmentID], [e].[Email], [e].[EmployeeCode], [e].[FirstName], [e].[HireDate], [e].[IsActive], [e].[JobTitle], [e].[LastName], [e].[ManagerID], [e].[Phone], [e].[Salary], [d].[DepartmentID], [d].[CreatedDate], [d].[DepartmentCode], [d].[DepartmentName], [d].[IsActive], [d].[Location]
+FROM [Employee] AS [e]
+INNER JOIN [Department] AS [d] ON [e].[DepartmentID] = [d].[DepartmentID]
+WHERE [e].[EmployeeID] = @__id_0
+2026-08-03 14:17:52.041 +01:00 [INF] Executed DbCommand (308ms) [Parameters=[@p3='?' (DbType = Int32), @p0='?' (Size = 100) (DbType = AnsiString), @p1='?' (Size = 100) (DbType = AnsiString), @p2='?' (Precision = 10) (Scale = 2) (DbType = Decimal)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Employee] SET [Email] = @p0, [JobTitle] = @p1, [Salary] = @p2
+WHERE [EmployeeID] = @p3;
+SELECT @@ROWCOUNT;
+2026-08-03 14:17:52.118 +01:00 [INF] Executing OkObjectResult, writing value of type 'EmployeeLeaveManagement.API.DTOs.EmployeeDto'.
+2026-08-03 14:17:52.132 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API) in 2326.9257ms
+2026-08-03 14:17:52.138 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.UpdateEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:17:52.142 +01:00 [INF] Request finished HTTP/1.1 PUT http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/48 - 200 null application/json; charset=utf-8 2540.6777ms
+2026-08-03 14:18:46.309 +01:00 [INF] Request starting HTTP/1.1 DELETE http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/48 - null null
+2026-08-03 14:18:46.321 +01:00 [INF] CORS policy execution successful.
+2026-08-03 14:18:46.339 +01:00 [INF] Executing endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.DeleteEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:18:46.414 +01:00 [INF] Route matched with {action = "DeleteEmployee", controller = "Employee"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteEmployee(Int32) on controller EmployeeLeaveManagement.API.Controllers.EmployeeController (EmployeeLeaveManagement.API).
+2026-08-03 14:18:46.527 +01:00 [INF] Executed DbCommand (13ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [e].[EmployeeID], [e].[CreatedDate], [e].[DepartmentID], [e].[Email], [e].[EmployeeCode], [e].[FirstName], [e].[HireDate], [e].[IsActive], [e].[JobTitle], [e].[LastName], [e].[ManagerID], [e].[Phone], [e].[Salary]
+FROM [Employee] AS [e]
+WHERE [e].[EmployeeID] = @__id_0
+2026-08-03 14:18:46.636 +01:00 [INF] Executed DbCommand (61ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Employee]
+WHERE [EmployeeID] = @p0;
+SELECT @@ROWCOUNT;
+2026-08-03 14:18:46.649 +01:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-08-03 14:18:46.653 +01:00 [INF] Executed action EmployeeLeaveManagement.API.Controllers.EmployeeController.DeleteEmployee (EmployeeLeaveManagement.API) in 237.0322ms
+2026-08-03 14:18:46.654 +01:00 [INF] Executed endpoint 'EmployeeLeaveManagement.API.Controllers.EmployeeController.DeleteEmployee (EmployeeLeaveManagement.API)'
+2026-08-03 14:18:46.655 +01:00 [INF] Request finished HTTP/1.1 DELETE http://explicit-nifty-jittery.ngrok-free.dev/api/Employee/48 - 200 null application/json; charset=utf-8 348.638ms
+2026-08-03 14:20:08.765 +01:00 [INF] Application is shutting down...

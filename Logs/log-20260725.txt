@@ -1,0 +1,4 @@
+2026-07-25 22:43:30.878 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-07-25 22:43:31.303 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 443.3968ms
+2026-07-25 23:28:09.481 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-07-25 23:28:09.708 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 239.2097ms
