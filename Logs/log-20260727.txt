@@ -1,5 +1,0 @@
-2026-07-27 11:29:39.140 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
-2026-07-27 11:29:39.279 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 146.6856ms
-2026-07-27 12:50:12.461 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
-2026-07-27 12:50:12.821 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 373.3277ms
-2026-07-27 12:55:48.088 +01:00 [INF] Application is shutting down...
