@@ -267,3 +267,181 @@ The application uses Microsoft SQL Server with Entity Framework Core.
 | DELETE | `/api/Employee/{id}` | Delete employee |
 
 ---
+# 📷 API Documentation (Swagger)
+
+The Employee Leave Management System includes interactive API documentation using **Swagger (OpenAPI)**.
+
+Swagger enables developers to test all REST API endpoints directly from the browser without requiring Postman or any third-party client.
+
+---
+
+## Swagger Home
+
+<p align="center">
+    <img src="Screenshots/SwaggerHome.png" width="950">
+</p>
+
+The Swagger homepage displays all available REST endpoints including Authentication and Employee Management APIs.
+
+---
+
+# 🔐 Authentication APIs
+
+## User Registration
+
+<p align="center">
+    <img src="Screenshots/RegisterAPI.png" width="900">
+</p>
+
+Registers a new user by validating the request and securely hashing the password using BCrypt before storing it in SQL Server.
+
+---
+
+## User Login
+
+<p align="center">
+    <img src="Screenshots/LoginAPI.png" width="900">
+</p>
+
+Authenticates users using their username and password, then generates a JWT Access Token and Refresh Token for secure API access.
+
+---
+
+## Refresh Token
+
+<p align="center">
+    <img src="Screenshots/RefreshTokenAPI.png" width="900">
+</p>
+
+Generates a new Access Token using a valid Refresh Token without requiring the user to log in again.
+
+---
+
+## Logout
+
+<p align="center">
+    <img src="Screenshots/LogoutAPI.png" width="900">
+</p>
+
+Revokes the stored Refresh Token, preventing any further token generation and securely ending the user's session.
+
+---
+
+# 👨‍💼 Employee Management APIs
+
+## Get All Employees
+
+<p align="center">
+    <img src="Screenshots/GetEmployees.png" width="900">
+</p>
+
+Returns a paginated list of employees with support for searching, sorting and filtering.
+
+---
+
+## Get Employee by ID
+
+<p align="center">
+    <img src="Screenshots/GetEmployeeById.png" width="900">
+</p>
+
+Retrieves detailed information about a specific employee using the Employee ID.
+
+---
+
+## Create Employee
+
+<p align="center">
+    <img src="Screenshots/CreateEmployee.png" width="900">
+</p>
+
+Creates a new employee record after validating all required fields and business rules.
+
+---
+
+## Update Employee
+
+<p align="center">
+    <img src="Screenshots/UpdateEmployee.png" width="900">
+</p>
+
+Updates an existing employee's information including department, job title, salary, manager, employment status and contact details.
+
+---
+
+## Delete Employee
+
+<p align="center">
+    <img src="Screenshots/DeleteEmployee.png" width="900">
+</p>
+
+Deletes an employee record from the system after verifying the employee exists.
+
+---
+
+# 📊 Power BI Dashboards
+
+The project includes interactive Power BI dashboards connected to the Employee Leave Management SQL Server database.
+
+These dashboards provide business insights for executives, HR teams and managers.
+
+---
+
+## Executive Dashboard
+
+<p align="center">
+    <img src="Screenshots/Dashboard-Executive.png" width="950">
+</p>
+
+### Features
+
+- Total Employees
+- Active Employees
+- Total Departments
+- Pending Leave Requests
+- Total Leave Requests
+- Employee Distribution
+- Leave Request Status
+- Department Filters
+- Leave Type Filters
+
+---
+
+## HR Analytics Dashboard
+
+<p align="center">
+    <img src="Screenshots/Dashboard-HRAnalytics.png" width="950">
+</p>
+
+### Features
+
+- Average Salary
+- Highest Salary
+- Total Salary Expense
+- Average Leave Allocation
+- Remaining Leave Balance
+- Salary by Department
+- Job Title Analysis
+- Leave Balance Distribution
+- Employee Salary Details
+
+---
+
+## Manager Dashboard
+
+<p align="center">
+    <img src="Screenshots/Dashboard-Manager.png" width="950">
+</p>
+
+### Features
+
+- Pending Leave Requests
+- Approved Leave Requests
+- Monthly Leave Trends
+- Leave Type Distribution
+- Department Leave Analysis
+- Employee Leave Details
+- Interactive Filters
+- Workforce Summary
+
+---
