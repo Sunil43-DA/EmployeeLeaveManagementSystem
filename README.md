@@ -234,6 +234,6 @@ GitHub:
 https://github.com/Sunil43-DA
 
 LinkedIn:
-(Add your LinkedIn profile link here)
+https://www.linkedin.com/in/sunil-reddy-35aa203ab
 
 ---
