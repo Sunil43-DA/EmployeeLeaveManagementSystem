@@ -445,3 +445,192 @@ These dashboards provide business insights for executives, HR teams and managers
 - Workforce Summary
 
 ---
+# 🚀 Getting Started
+
+Follow the steps below to run the project locally.
+
+---
+
+# 📋 Prerequisites
+
+Before running the application, ensure the following software is installed:
+
+- .NET 8 SDK
+- SQL Server
+- SQL Server Management Studio (SSMS)
+- Visual Studio Code or Visual Studio 2022
+- Git
+
+---
+
+# 📥 Clone the Repository
+
+```bash
+git clone https://github.com/Sunil43-DA/EmployeeLeaveManagementSystem.git
+
+cd EmployeeLeaveManagementSystem
+```
+
+---
+
+# ⚙️ Configure the Database
+
+Open **appsettings.json** and update the SQL Server connection string.
+
+```json
+"ConnectionStrings": {
+  "DefaultConnection": "Server=YOUR_SERVER;Database=EmployeeLeaveManagementDB;Trusted_Connection=True;TrustServerCertificate=True;"
+}
+```
+
+---
+
+# 🗄️ Apply Database Migrations
+
+Run the following commands:
+
+```bash
+dotnet ef database update
+```
+
+Or restore the provided SQL script from the **Database** folder.
+
+---
+
+# ▶️ Run the Application
+
+```bash
+dotnet restore
+
+dotnet build
+
+dotnet run
+```
+
+The API will start on:
+
+```
+https://localhost:5001
+```
+
+or
+
+```
+http://localhost:5080
+```
+
+Swagger UI:
+
+```
+http://localhost:5080/swagger
+```
+
+---
+
+# 🔒 Authentication
+
+Protected API endpoints require a valid JWT Bearer Token.
+
+### Steps
+
+1. Register a new user.
+2. Login using your credentials.
+3. Copy the generated Access Token.
+4. Click **Authorize** in Swagger.
+5. Enter:
+
+```
+Bearer YOUR_ACCESS_TOKEN
+```
+
+6. Access secured endpoints.
+
+---
+
+# 📈 Project Highlights
+
+This project demonstrates practical experience in:
+
+- REST API Development
+- ASP.NET Core 8
+- SQL Server
+- Entity Framework Core
+- Repository Pattern
+- Unit of Work
+- JWT Authentication
+- Refresh Tokens
+- Role-Based Authorization
+- AutoMapper
+- FluentValidation
+- Serilog Logging
+- Swagger Documentation
+- Power BI Reporting
+- Clean Architecture
+- Dependency Injection
+- Global Exception Handling
+
+---
+
+# 🔮 Future Enhancements
+
+Planned improvements include:
+
+- Leave Request Workflow
+- Leave Approval Process
+- Email Notifications
+- Employee Attendance Module
+- Power Apps Integration
+- Azure App Service Deployment
+- Docker Containerization
+- GitHub Actions CI/CD Pipeline
+- Azure DevOps Pipeline
+- Unit Testing with xUnit
+- Integration Testing
+
+---
+
+# 👨‍💻 Author
+
+## Sunil Narayanareddy
+
+### GitHub
+
+https://github.com/Sunil43-DA
+
+### LinkedIn
+
+https://www.linkedin.com/in/sunil-reddy-35aa203ab
+
+---
+
+# 🙏 Acknowledgements
+
+This project was developed as part of my continuous learning journey in Backend Development, Data Engineering, and Business Intelligence.
+
+It demonstrates modern backend development practices using Microsoft's technology stack and follows industry-standard design patterns and security practices.
+
+---
+
+# ⭐ If you found this repository useful
+
+Please consider giving it a ⭐ on GitHub.
+
+It helps others discover the project and supports my portfolio.
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+You are welcome to use, modify and learn from this project for educational purposes.
+
+---
+
+<p align="center">
+
+### ⭐ Thank you for visiting this repository! ⭐
+
+**Happy Coding! 🚀**
+
+</p>
